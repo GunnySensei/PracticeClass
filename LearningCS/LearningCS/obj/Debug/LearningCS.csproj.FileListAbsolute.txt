@@ -1,0 +1,7 @@
+F:\Scripting\Programs\LearningCS\LearningCS\obj\Debug\LearningCS.csprojResolveAssemblyReference.cache
+F:\Scripting\Programs\LearningCS\LearningCS\obj\Debug\LearningCS.csproj.CoreCompileInputs.cache
+F:\Scripting\Programs\LearningCS\LearningCS\bin\Debug\LearningCS.exe.config
+F:\Scripting\Programs\LearningCS\LearningCS\bin\Debug\LearningCS.exe
+F:\Scripting\Programs\LearningCS\LearningCS\bin\Debug\LearningCS.pdb
+F:\Scripting\Programs\LearningCS\LearningCS\obj\Debug\LearningCS.exe
+F:\Scripting\Programs\LearningCS\LearningCS\obj\Debug\LearningCS.pdb
